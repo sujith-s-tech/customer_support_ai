@@ -1,0 +1,21 @@
+{
+  "best_model": "TF-IDF + Logistic Regression",
+  "model_metrics": {
+    "TF-IDF + LinearSVC (calibrated)": {
+      "val_accuracy": 0.8741,
+      "val_precision_macro": 0.8789,
+      "val_recall_macro": 0.8758,
+      "val_f1_macro": 0.875,
+      "val_f1_weighted": 0.8746,
+      "training_time_s": 1.96
+    },
+    "TF-IDF + Logistic Regression": {
+      "val_accuracy": 0.8761,
+      "val_precision_macro": 0.8812,
+      "val_recall_macro": 0.8752,
+      "val_f1_macro": 0.8755,
+      "val_f1_weighted": 0.8765,
+      "training_time_s": 6.5
+    }
+  }
+}

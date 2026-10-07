@@ -1,0 +1,4 @@
+text,category,very_short,has_url,has_email,is_noisy
+Change currency,exchange_via_app,True,False,False,True
+transaction failed?,transfer_not_received_by_recipient,True,False,False,True
+Pending transfer?,pending_transfer,True,False,False,True

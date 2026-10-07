@@ -1,0 +1,6 @@
+model_name,val_accuracy,val_precision_macro,val_recall_macro,val_f1_macro,val_f1_weighted,n_params,training_time
+BiLSTMAttn,0.8941,0.8984,0.8975,0.8961,0.8945,1007821,See training log
+TextCNN,0.8866,0.8895,0.8884,0.8853,0.8867,443085,See training log
+GRU,0.8846,0.8896,0.8861,0.8848,0.8857,888013,See training log
+SimpleRNN,0.8691,0.8785,0.8694,0.868,0.8701,888013,See training log
+LSTM,0.8681,0.8747,0.8681,0.8677,0.868,1085645,See training log

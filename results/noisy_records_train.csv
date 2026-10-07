@@ -1,0 +1,7 @@
+text,category,very_short,has_url,has_email,is_noisy
+Cancel Transaction,cancel_transfer,True,False,False,True
+passcode retrieval,passcode_forgotten,True,False,False,True
+Lost password,passcode_forgotten,True,False,False,True
+pending transaction?,pending_card_payment,True,False,False,True
+Transfer declined.,declined_transfer,True,False,False,True
+Supported countries,country_support,True,False,False,True

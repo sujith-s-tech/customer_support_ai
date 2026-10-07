@@ -1,0 +1,18 @@
+{
+  "dl": {
+    "accuracy": 0.8964,
+    "precision_macro": 0.9013,
+    "recall_macro": 0.8964,
+    "f1_macro": 0.8968,
+    "f1_weighted": 0.8968,
+    "eval_time_s": 11.23
+  },
+  "ml": {
+    "accuracy": 0.8779,
+    "precision_macro": 0.8839,
+    "recall_macro": 0.8779,
+    "f1_macro": 0.8784,
+    "f1_weighted": 0.8784,
+    "eval_time_s": 1.93
+  }
+}

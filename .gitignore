@@ -1,0 +1,62 @@
+# ── Python & Bytecode ─────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ── Virtual Environments ──────────────────────────────────────
+.env
+.venv
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ── IDE & Editor Configurations ───────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# ── Jupyter Notebook Checkpoints ──────────────────────────────
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ── Operating System ──────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── API Keys & Sensitive Secrets ──────────────────────────────
+*.env
+!.env.example
+secrets.toml
+.streamlit/secrets.toml
+
+# ── Keep directories tracked with .gitkeep ───────────────────
+!.gitkeep
+!models/tfidf/.gitkeep
+!models/deep_learning/.gitkeep
+!results/charts/.gitkeep
+!artifacts/.gitkeep

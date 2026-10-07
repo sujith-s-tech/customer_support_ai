@@ -1,0 +1,18 @@
+{
+  "model_name": "BiLSTMAttn",
+  "vocab_size": 1357,
+  "num_classes": 77,
+  "embed_dim": 128,
+  "hidden_dim": 256,
+  "num_layers": 1,
+  "dropout": 0.3,
+  "num_filters": 128,
+  "kernel_sizes": [
+    2,
+    3,
+    4,
+    5
+  ],
+  "max_len": 64,
+  "num_heads": 4
+}
